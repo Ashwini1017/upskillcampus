@@ -1,0 +1,27 @@
+{
+  "credentials": {
+    "\u0016::ashwini": {
+      "password": "Z0FBQUFBQnA1UEJScHdaSVVYOFNRMXdQeTZLU0F3LVZEN1pVWXRMbE44bkFQZWdnLXEzU1VRZzdSMmt1ZjJrcXdvVFQzM3BLYlJvbl8yZmxJQThZaExRYUtTS3VITThWVGc9PQ==",
+      "username": "ashwini",
+      "website": "\u0016"
+    }
+  },
+  "encryption": {
+    "kdf_iterations": 310000,
+    "kek_salt_b64": "pvnibzuJD0goE9wQm3x5ug==",
+    "wrapped_data_key_b64": "Z0FBQUFBQnA1T19jM0ZVT2pHMHB3djU5YWpHamltOVVxN21DdldkeFFQX0UyTnhFZUhiZ2tXTDBHNzFhclRnemg4OVlmN2EzalhxUlhPbTVWaTZ5SjZUdExjVG5YUE9lcTBVQy0xR2luc0FzWHczN29SakN6QVpzNVVKQWNiSW54U0hwckh5U2xxSzA="
+  },
+  "master": {
+    "hash_b64": "Nvx8D05oE6eXCaIadb4V3jh49ltWwT6quIso6ykhOQs=",
+    "iterations": 310000,
+    "salt_b64": "42TreJKnef5u+nccGf1zpg=="
+  },
+  "meta": {
+    "updated_at": 1776611423
+  },
+  "otp": {
+    "enabled": true,
+    "secret_enc_b64": "Z0FBQUFBQnA1T19meFQ1X3pDOFFMTGlDVUdvVDRsWlpnNEFEbUtObmpKVXpDSk82cXZQbDhRR0lidmIzVVJybGpMcE03Tjl4c3lWa0ZPdTdLa1VGWEt4aEQ4U05oWTRESjlmMElJcXluVFBiazJObGpqUFFZWXdVc0dxaE14eUVGVEpONHFNc0ZRU1A="
+  },
+  "version": 1
+}
